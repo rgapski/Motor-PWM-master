@@ -22,6 +22,8 @@ void InterruptSystick(void)
 	temp_total++;
 }
 
+
+
 void PWM(int PORTA, int PINO, int taxa)
 {
 
